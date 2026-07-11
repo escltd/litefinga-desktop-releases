@@ -1,0 +1,19 @@
+{
+  "version": null,
+  "prerelease": true,
+  "published_at": null,
+  "litefinga_bot_ref": null,
+  "litefinga_bot_source": null,
+  "assets": {
+    "windows-amd64": null,
+    "windows-amd64-msi": null,
+    "darwin-amd64": null,
+    "darwin-amd64-update": null,
+    "darwin-arm64": null,
+    "darwin-arm64-update": null,
+    "linux-amd64": null,
+    "linux-amd64-update": null
+  },
+  "checksums": {},
+  "_comment": "Populated automatically when litefinga-desktop publishes a pre-release."
+}
