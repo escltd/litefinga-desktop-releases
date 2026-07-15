@@ -1,7 +1,7 @@
 {
   "version": "v0.1.1-pre.1",
   "prerelease": true,
-  "published_at": "2026-07-15T11:06:05Z",
+  "published_at": "2026-07-15T17:56:00Z",
   "litefinga_bot_ref": "v0.0.3-pre.4",
   "litefinga_bot_source": "prerelease",
   "assets": {
@@ -16,8 +16,8 @@
   },
   "checksums": {
     "windows-amd64-msi": null,
-    "darwin-arm64": "sha256:278ac5589af249d06e520ab45c9e37e1cf5f4fd45b40aff4a3d6fe96c550a58e",
-    "darwin-amd64": "sha256:fdae53732a59d8c6c654f3d74cc33bf2fb5a67ff05adb4d9396eb670678f2194",
-    "linux-amd64": "sha256:0351175b1051d7efdc42cc808b22f950b1eaa6a0e69eaaf9781796825868b6f5"
+    "darwin-arm64": "sha256:8b249b5f1f9a66721240e4004e651fd6b3755732a56c7d427fce80dfb62f0b5b",
+    "darwin-amd64": "sha256:5b735fd182df93fc959c7d020dc9bba956381b71fed925dfeeb805ad4a23737f",
+    "linux-amd64": "sha256:a482c61b2c1b91fcd5b5540282a785b6525f48caedd3b19e9b1a74a281686be6"
   }
 }
