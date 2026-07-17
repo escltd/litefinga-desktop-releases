@@ -1,17 +1,21 @@
 {
-  "version": null,
+  "version": "v0.1.0",
   "prerelease": false,
-  "published_at": null,
+  "published_at": "2026-07-17T10:34:09Z",
   "assets": {
-    "windows-amd64": null,
-    "windows-amd64-msi": null,
-    "darwin-amd64": null,
-    "darwin-amd64-update": null,
-    "darwin-arm64": null,
-    "darwin-arm64-update": null,
-    "linux-amd64": null,
-    "linux-amd64-update": null
+    "windows-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.0/litefinga-desktop-v0.1.0-windows-amd64.zip",
+    "windows-amd64-msi": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.0/litefinga-desktop-v0.1.0-windows-amd64.msi",
+    "darwin-arm64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.0/litefinga-desktop-v0.1.0-darwin-arm64.dmg",
+    "darwin-arm64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.0/litefinga-desktop-v0.1.0-darwin-arm64.zip",
+    "darwin-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.0/litefinga-desktop-v0.1.0-darwin-amd64.dmg",
+    "darwin-amd64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.0/litefinga-desktop-v0.1.0-darwin-amd64.zip",
+    "linux-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.0/litefinga-desktop-v0.1.0-linux-amd64.deb",
+    "linux-amd64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.0/litefinga-desktop-v0.1.0-linux-amd64.tar.gz"
   },
-  "checksums": {},
-  "_comment": "Populated automatically when litefinga-desktop main publishes a stable release."
+  "checksums": {
+    "windows-amd64-msi": null,
+    "darwin-arm64": "sha256:f6271a74506209625ac43db5b878279dd8e5deac71a9c9c428a97566f79dffe9",
+    "darwin-amd64": "sha256:c5ed66f12fc5aa47ca1b9369b1bade51bd260865cbdfadfb3717e44a1b0327e4",
+    "linux-amd64": "sha256:628d9837f3ec39241e8a8d73492a69bad5c114dc38a30c9d006831d05c62614c"
+  }
 }
