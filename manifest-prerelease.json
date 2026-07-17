@@ -1,8 +1,8 @@
 {
   "version": "v0.1.1-pre.1",
   "prerelease": true,
-  "published_at": "2026-07-15T19:35:21Z",
-  "litefinga_bot_ref": "v0.0.3-pre.4",
+  "published_at": "2026-07-17T10:26:48Z",
+  "litefinga_bot_ref": "v0.0.4-pre.5",
   "litefinga_bot_source": "prerelease",
   "assets": {
     "windows-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.1-pre.1/litefinga-desktop-v0.1.1-pre.1-windows-amd64.zip",
@@ -16,8 +16,8 @@
   },
   "checksums": {
     "windows-amd64-msi": null,
-    "darwin-arm64": "sha256:80b09f265d083dbbc2fa91c57981f5c9d551fb95ac9873e070e44b3f0bfb4f29",
-    "darwin-amd64": "sha256:f8c241ff5820e2ace9b654f5ce5c55407145329b2c12de89f207ba5ed7ff8474",
-    "linux-amd64": "sha256:a3269473cf0b2b33e2433f250a07eb373775ec0858fa25ca0cffaadc9e24dd0e"
+    "darwin-arm64": "sha256:c210ed9f346fa074784996b7b13c2240049af0c797fc83e2542105b47ef64bd4",
+    "darwin-amd64": "sha256:504b2c21b5ca892cf3ec1f6079610df59924c7c8b4bf8243432528f33a219a7a",
+    "linux-amd64": "sha256:dc406a83038990a3df278ca9dd93b32dd3f649b8d0f5dc5abc8712b170eed08c"
   }
 }
