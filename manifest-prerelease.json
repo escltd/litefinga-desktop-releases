@@ -1,23 +1,23 @@
 {
-  "version": "v0.1.2-pre.3.9",
+  "version": "v0.1.2-pre.3.10",
   "prerelease": true,
-  "published_at": "2026-07-20T21:52:21Z",
-  "litefinga_bot_ref": "v0.0.6-pre.7.7",
+  "published_at": "2026-07-20T22:55:20Z",
+  "litefinga_bot_ref": "v0.0.6-pre.7.8",
   "litefinga_bot_source": "prerelease",
   "assets": {
-    "windows-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.9/litefinga-desktop-v0.1.2-pre.3.9-windows-amd64.zip",
-    "windows-amd64-msi": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.9/litefinga-desktop-v0.1.2-pre.3.9-windows-amd64.msi",
-    "darwin-arm64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.9/litefinga-desktop-v0.1.2-pre.3.9-darwin-arm64.dmg",
-    "darwin-arm64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.9/litefinga-desktop-v0.1.2-pre.3.9-darwin-arm64.zip",
-    "darwin-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.9/litefinga-desktop-v0.1.2-pre.3.9-darwin-amd64.dmg",
-    "darwin-amd64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.9/litefinga-desktop-v0.1.2-pre.3.9-darwin-amd64.zip",
-    "linux-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.9/litefinga-desktop-v0.1.2-pre.3.9-linux-amd64.deb",
-    "linux-amd64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.9/litefinga-desktop-v0.1.2-pre.3.9-linux-amd64.tar.gz"
+    "windows-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.10/litefinga-desktop-v0.1.2-pre.3.10-windows-amd64.zip",
+    "windows-amd64-msi": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.10/litefinga-desktop-v0.1.2-pre.3.10-windows-amd64.msi",
+    "darwin-arm64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.10/litefinga-desktop-v0.1.2-pre.3.10-darwin-arm64.dmg",
+    "darwin-arm64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.10/litefinga-desktop-v0.1.2-pre.3.10-darwin-arm64.zip",
+    "darwin-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.10/litefinga-desktop-v0.1.2-pre.3.10-darwin-amd64.dmg",
+    "darwin-amd64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.10/litefinga-desktop-v0.1.2-pre.3.10-darwin-amd64.zip",
+    "linux-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.10/litefinga-desktop-v0.1.2-pre.3.10-linux-amd64.deb",
+    "linux-amd64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.2-pre.3.10/litefinga-desktop-v0.1.2-pre.3.10-linux-amd64.tar.gz"
   },
   "checksums": {
     "windows-amd64-msi": null,
-    "darwin-arm64": "sha256:8dc41788fba1f719d389e63c1ad5793797055c4701c604c782c7194f5f77aedb",
-    "darwin-amd64": "sha256:3c7c482534a1a376c310df12f64804bd6d89f85a4e369f1dc71d15335028df49",
-    "linux-amd64": "sha256:25e4adb1b83e07abeede1e3d992c653ea7a120327014426a1328622aaf001561"
+    "darwin-arm64": "sha256:7163b87ee60bcf17f47850db20aea3a33a655c5866506088b08fcc4784745340",
+    "darwin-amd64": "sha256:1f614fbfb32e481d3b645cb3dc250a82da4cc95cd9afa06464fc9df2b7d69188",
+    "linux-amd64": "sha256:3f885b81fba08d6d7cf899050cadb9861921bb7c4e6fa8270c2b5c26dabf66a7"
   }
 }
