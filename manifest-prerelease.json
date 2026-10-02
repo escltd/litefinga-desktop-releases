@@ -1,27 +1,27 @@
 {
-  "version": "v0.1.91-pre.95.2",
+  "version": "v0.1.92-pre.97.1",
   "prerelease": true,
-  "published_at": "2026-10-02T00:07:15Z",
+  "published_at": "2026-10-02T09:16:51Z",
   "litefinga_bot_ref": "v0.0.100-pre.100.1",
   "litefinga_bot_source": "prerelease",
   "assets": {
-    "windows-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.91-pre.95.2/litefinga-desktop-v0.1.91-pre.95.2-windows-amd64.zip",
-    "windows-amd64-msi": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.91-pre.95.2/litefinga-desktop-v0.1.91-pre.95.2-windows-amd64.msi",
-    "darwin-arm64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.91-pre.95.2/litefinga-desktop-v0.1.91-pre.95.2-darwin-arm64.dmg",
-    "darwin-arm64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.91-pre.95.2/litefinga-desktop-v0.1.91-pre.95.2-darwin-arm64.zip",
-    "darwin-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.91-pre.95.2/litefinga-desktop-v0.1.91-pre.95.2-darwin-amd64.dmg",
-    "darwin-amd64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.91-pre.95.2/litefinga-desktop-v0.1.91-pre.95.2-darwin-amd64.zip",
-    "linux-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.91-pre.95.2/litefinga-desktop-v0.1.91-pre.95.2-linux-amd64.deb",
-    "linux-amd64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.91-pre.95.2/litefinga-desktop-v0.1.91-pre.95.2-linux-amd64.tar.gz"
+    "windows-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.92-pre.97.1/litefinga-desktop-v0.1.92-pre.97.1-windows-amd64.zip",
+    "windows-amd64-msi": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.92-pre.97.1/litefinga-desktop-v0.1.92-pre.97.1-windows-amd64.msi",
+    "darwin-arm64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.92-pre.97.1/litefinga-desktop-v0.1.92-pre.97.1-darwin-arm64.dmg",
+    "darwin-arm64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.92-pre.97.1/litefinga-desktop-v0.1.92-pre.97.1-darwin-arm64.zip",
+    "darwin-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.92-pre.97.1/litefinga-desktop-v0.1.92-pre.97.1-darwin-amd64.dmg",
+    "darwin-amd64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.92-pre.97.1/litefinga-desktop-v0.1.92-pre.97.1-darwin-amd64.zip",
+    "linux-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.92-pre.97.1/litefinga-desktop-v0.1.92-pre.97.1-linux-amd64.deb",
+    "linux-amd64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.92-pre.97.1/litefinga-desktop-v0.1.92-pre.97.1-linux-amd64.tar.gz"
   },
   "checksums": {
-    "windows-amd64": "sha256:c1f4db0a87d45784d5eec42b8f8ef2dbe5e2ca2bfb6fc1c231af77577682c63a",
+    "windows-amd64": "sha256:eb6929986e6692bfeb30a7f735dbfa77a1985ca60188483c2e3beb6a95656423",
     "windows-amd64-msi": null,
-    "darwin-arm64": "sha256:493ec4d504cecfe47ce57ee533cf26783701eb59595304754d55324b78c83f65",
-    "darwin-arm64-update": "sha256:1a58a71ce321d4c9f2008285085278d80413c51ec191e992e818f6967ccacb41",
-    "darwin-amd64": "sha256:21e2eecfe1938ac589d67e9c933f9b39f56a12562a5aba426ded7dec7561e463",
-    "darwin-amd64-update": "sha256:c29c199a384d0947e4e7f462b24b6b7ce9101b0bd754a12e767715f1406f6853",
-    "linux-amd64": "sha256:5f970b469e6943501f419e94ff9f5cbd2e469553c605486bb88f99fbd1d47fc3",
-    "linux-amd64-update": "sha256:c5559dd92c3cf0a15679d2b3ff760d20706c98d12c2a285e58713dc0557f0e54"
+    "darwin-arm64": "sha256:cec4a704415162e7c5a37c50a9f49e3616191947a29ddf08900a9f7fa1e34368",
+    "darwin-arm64-update": "sha256:a98a3461d9dc9f50be5eff2a4ad595639eb75ad9ae32f4583e15dd8f024b2a3a",
+    "darwin-amd64": "sha256:73b9d91300b0dddda6541f081df0896c37782997a064c0cc2293c7b1710b02fc",
+    "darwin-amd64-update": "sha256:600feff67ba7020b4b2f6b2dd9590fed858a8c70b057cccc488107dcd47f50c8",
+    "linux-amd64": "sha256:85bf20f8fe655da9737d7f267476d81a714a20c4421db12403d4ee40029e897a",
+    "linux-amd64-update": "sha256:cdfea4b54bde64d8b5cc721f1ce8dc2729bdd037f3183649ffdeaf57f29a6b5a"
   }
 }
