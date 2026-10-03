@@ -1,25 +1,25 @@
 {
-  "version": "v0.1.99",
+  "version": "v0.1.100",
   "prerelease": false,
-  "published_at": "2026-10-03T09:18:06Z",
+  "published_at": "2026-10-03T15:34:37Z",
   "assets": {
-    "windows-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.99/litefinga-desktop-v0.1.99-windows-amd64.zip",
-    "windows-amd64-msi": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.99/litefinga-desktop-v0.1.99-windows-amd64.msi",
-    "darwin-arm64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.99/litefinga-desktop-v0.1.99-darwin-arm64.dmg",
-    "darwin-arm64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.99/litefinga-desktop-v0.1.99-darwin-arm64.zip",
-    "darwin-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.99/litefinga-desktop-v0.1.99-darwin-amd64.dmg",
-    "darwin-amd64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.99/litefinga-desktop-v0.1.99-darwin-amd64.zip",
-    "linux-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.99/litefinga-desktop-v0.1.99-linux-amd64.deb",
-    "linux-amd64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.99/litefinga-desktop-v0.1.99-linux-amd64.tar.gz"
+    "windows-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.100/litefinga-desktop-v0.1.100-windows-amd64.zip",
+    "windows-amd64-msi": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.100/litefinga-desktop-v0.1.100-windows-amd64.msi",
+    "darwin-arm64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.100/litefinga-desktop-v0.1.100-darwin-arm64.dmg",
+    "darwin-arm64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.100/litefinga-desktop-v0.1.100-darwin-arm64.zip",
+    "darwin-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.100/litefinga-desktop-v0.1.100-darwin-amd64.dmg",
+    "darwin-amd64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.100/litefinga-desktop-v0.1.100-darwin-amd64.zip",
+    "linux-amd64": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.100/litefinga-desktop-v0.1.100-linux-amd64.deb",
+    "linux-amd64-update": "https://github.com/escltd/litefinga-desktop-releases/releases/download/v0.1.100/litefinga-desktop-v0.1.100-linux-amd64.tar.gz"
   },
   "checksums": {
-    "windows-amd64": "sha256:1b317526e6a5ab2636306ef14ad7a7d901b3cee0093cd7820d2cac47db407314",
+    "windows-amd64": "sha256:b65734dd174bc5c11d9833172d9e1af72923f18b9a5df22b888e80234d0c1dca",
     "windows-amd64-msi": null,
-    "darwin-arm64": "sha256:6e99f4deb3a2dda1b539482d3602568386c6f20bbb0c8325acdf993111f5894c",
-    "darwin-arm64-update": "sha256:4407c84309ce0783500a2c786013349ea2e3eb96baf8e8d60dbaa0235685c88c",
-    "darwin-amd64": "sha256:de0c21efaa69d0ed450b0a2b27fd92ab7e066335720b6d2f82e0f144a3896428",
-    "darwin-amd64-update": "sha256:0759bddd097f6f64fb5f57d2f9d52df6a6469fbb06aba5ebbdf2f26822d96e9a",
-    "linux-amd64": "sha256:4bd6759ec9cfda97528212e11d921d1715459c9bc2822eade6bbb0fb4bb17a98",
-    "linux-amd64-update": "sha256:3e3b6c44bdc84f11b6da6ba9c5b3c6a38df2d905ac6d3632b8376176d1945808"
+    "darwin-arm64": "sha256:022abfeeab7f293635430a8724ed72ab7680ad763f361886de43da3154b2fc07",
+    "darwin-arm64-update": "sha256:4c4e18fc363cf13f50401d326ffc03b43fb69e6d48b75a959ed41cad465a1e4e",
+    "darwin-amd64": "sha256:2c81b187392f49ec73734a18146c061a36e1d905b5f80f173649b227a0e714ca",
+    "darwin-amd64-update": "sha256:31b210371ab0cd6205ecc80a1212b1359765f3a2bdb2bc596a4268197b142b3c",
+    "linux-amd64": "sha256:b65bbbf2770348192088cec8a74c1bf3d52b67f22fb826808a30f3aee4e1384f",
+    "linux-amd64-update": "sha256:ce3cc10d286275359c16958841bdeb55ba309c9b5b99cf4e09924511efa1f749"
   }
 }
